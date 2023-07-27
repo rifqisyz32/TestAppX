@@ -1,0 +1,10 @@
+{
+    "id" : "id",
+    "createdAt" : "createdAt",
+    "updatedAt" : "updatedAt",
+    "name" : "name",
+    "image" : "image",
+    "email" : "email",
+    "phone" : "phone"
+}
+
